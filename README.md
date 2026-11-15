@@ -1,9 +1,7 @@
 # BHCPF Accountability Platform
 
 **An open civic data platform tracking ₦57.1 billion in Basic Health Care Provision Fund (BHCPF) disbursements and 8,309 validated Primary Health Centres across Nigeria's 36 States and FCT.**
-
-Built by **Lawal Lawal Ali** (Data Wrangler, PPDC) in partnership with the **Public and Private Development Centre (PPDC)**.
-
+An advanced Machine Learning version with anomaly detection and facility risk scoring is available here: BHCPF ML Accountability Tracker
 ---
 
 ## 🔍 What This Platform Does
