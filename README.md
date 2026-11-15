@@ -1,6 +1,11 @@
 # BHCPF Accountability Platform
 
-**An open civic data platform tracking ₦57.1 billion in Basic Health Care Provision Fund (BHCPF) disbursements and 8,309 validated Primary Health Centres across Nigeria's 36 States and FCT.**
+**An open civic data platform tracking ₦57.1 billion in BHCPF disbursements (Q1, Q2 & Q3 2025) to 36 States and FCT through the NPHCDA, NCDC, EMTC & NHIA gateways, and the functionality status of 8,309 validated primary health facilities across Nigeria — built for transparency, powered by citizens.**
+
+Explore state-by-state allocation breakdowns across NPHCDA, NCDC, EMTC and NHIA gateways — with filterable facility directories, LGA drill-downs, and Q1/Q2/Q3 quarter-on-quarter comparisons. Find any of Nigeria's 8,309 BHCPF-funded health facilities on a live map. Filter by state, LGA, and functionality status — then navigate directly to any facility with one tap.
+
+[BHCPF Disbursement & Facility Dashboard with PHC Accountability &
+Navigation Map](https://legendary-churros-fc5ebd.netlify.app)
 
 An advanced Machine Learning version with anomaly detection and facility risk scoring is available here: [BHCPF ML Accountability Tracker](https://public-health-funding-machine-learning-accountability-model-gw.streamlit.app/)
 ---
