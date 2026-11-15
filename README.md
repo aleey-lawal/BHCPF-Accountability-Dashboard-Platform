@@ -1,7 +1,8 @@
 # BHCPF Accountability Platform
 
 **An open civic data platform tracking ₦57.1 billion in Basic Health Care Provision Fund (BHCPF) disbursements and 8,309 validated Primary Health Centres across Nigeria's 36 States and FCT.**
-An advanced Machine Learning version with anomaly detection and facility risk scoring is available here: BHCPF ML Accountability Tracker
+
+An advanced Machine Learning version with anomaly detection and facility risk scoring is available here: [BHCPF ML Accountability Tracker](https://public-health-funding-machine-learning-accountability-model-gw.streamlit.app/)
 ---
 
 ## 🔍 What This Platform Does
